@@ -1,0 +1,10 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica_2.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica_2.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 2\Practica 2\obj\Debug\Practica_2.XML.resources
